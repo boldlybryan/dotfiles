@@ -1,0 +1,10 @@
+[user]
+	name = Bryan King
+	email = bpking15@gmail.com
+[github]
+	user = brykng
+[alias]
+	a = add
+	cm = commit -m
+[credential]
+	helper = osxkeychain
